@@ -1,4 +1,4 @@
-# about page 입니다.
+# About page 입니다.
 
 > 우리에 대해서 알려드려요.
 
